@@ -2,3 +2,25 @@
     margin: 0px;
     padding: 0px;
 }
+
+
+.h-container{
+    background-color: black;
+    padding: 25px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img_01{
+    width: 150px;
+    height: 40px;
+}
+.menu{
+
+}
+.menu a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+    font-size: 20px;
+}
