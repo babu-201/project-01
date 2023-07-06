@@ -188,6 +188,7 @@
 
 .card_01:hover{
     box-shadow: 0 0 30px 20px white;
+    cursor: pointer;
 }
 
 /* card section ends here */
