@@ -3,6 +3,7 @@
     padding: 0px;
 }
 
+/* header starts here */
 
 .h-container{
     background-color: rgb(73, 73, 73);
@@ -101,6 +102,7 @@
     margin-top: 20px;
 }
 
+/* header ends here */
 
 
 
@@ -112,6 +114,7 @@
 
 
 
+/* card section starts here */
 
 .section{
     height: 70vh;
@@ -181,3 +184,5 @@
 .card_01 p{
     margin: 10px;
 }
+
+/* card section ends here */
