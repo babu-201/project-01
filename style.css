@@ -192,3 +192,90 @@
 }
 
 /* card section ends here */
+
+/* footer section starts here */
+
+
+.bg_img-02{
+    background-image: url("images/bg-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    color: white;
+}
+
+.container-bg{
+    display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 150px;
+  height: 1px;
+  margin-right: 70px;
+
+}
+
+.logo_des-01{
+    width: 100%;
+    flex: 3;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.footer{
+    width: 100%;
+    flex: 7;
+}
+
+.img_04{
+    width: 150px;
+    height: 60px;
+}
+.description_02{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.footer_container-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hr_style{
+    width: 80%;
+    margin: 0 auto;
+    padding: 40px;
+    color: white;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+.copyright{
+    text-align: center;
+    margin: 30px;
+    padding-bottom: 20px;
+}
+
+.hr-div{
+    margin-top: 230px;
+}
+
+.heading_04{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.list_container{
+    margin: 20px;
+}
+.list_container ul li{
+    list-style: none;
+    padding: 5px;
+}
+
+/* footer section ends here */
+
