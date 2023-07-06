@@ -100,3 +100,84 @@
     border-radius: 10px;
     margin-top: 20px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section{
+    height: 70vh;
+    background-image: url("images/bg-image.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+    
+}
+
+
+.card_container{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    height: 80vh;
+    
+    
+    
+}
+
+.img_03{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px;
+}
+.center{
+    text-align: center;
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    transform: translate(-50%, -50%); /*  text align center korar por position use tarpor translate dile top theke sore center eo thakbe */
+} 
+.heading_card{
+    color: white;
+    font-size: 50px;
+    font: bold;
+}
+
+.card_01{
+    text-align: center;
+    height: 200px;
+    width: 20%;
+    height: auto;
+    background-color: rgb(61, 50, 50);
+    border-radius: 20px;
+}
+
+
+.card_container-body{
+    color: white;
+}
+.btn_03{
+    border: none;
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px 10px 20px 10px;
+    border-radius: 5px;
+}
+.heading_03{
+    margin: 10px;
+}
+
+.card_01 p{
+    margin: 10px;
+}
